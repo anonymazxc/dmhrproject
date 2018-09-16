@@ -15,7 +15,6 @@
     "\n",
     "How does prescribing (frequency and costs) in your city compare when using prescribing data from Cambridge as a reference?\n",
     "\n",
-    "Pandas dataframes can also be queried using SLQL! The code snippet below gives you an example of how to execute an SQL statement using pandasql. Using SQL, produce a table that provides the number of GP practices per city, ordered in descending order.\n"
    ]
   },
   {
